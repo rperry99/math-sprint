@@ -8,7 +8,6 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <!-- Game Container -->
     <div class="game-container">
       <!-- Header -->
       <div class="header">
@@ -19,47 +18,43 @@
       <div class="card" id="splash-page">
         <form id="start-form">
           <div class="selection-container">
-            <!-- 10 Questions radio input -->
+            <!-- 10 Questions Radio Input -->
             <div class="radio-container">
               <label for="value-10">10 Questions</label>
-              <input type="radio" id="value-10" name="questions" value="10" />
+              <input type="radio" name="questions" value="10" id="value-10" />
               <span class="best-score">
                 <span>Best Score</span>
-                <span class="best-score-value">0.0s</span>
+                <span class="best-score-value"></span>
               </span>
             </div>
-
-            <!-- 25 Questions radio input -->
+            <!-- 25 Questions Radio Input -->
             <div class="radio-container">
               <label for="value-25">25 Questions</label>
-              <input type="radio" id="value-25" name="questions" value="25" />
+              <input type="radio" name="questions" value="25" id="value-25" />
               <span class="best-score">
                 <span>Best Score</span>
-                <span class="best-score-value">0.0s</span>
+                <span class="best-score-value"></span>
               </span>
             </div>
-
-            <!-- 50 Questions radio input -->
+            <!-- 50 Questions Radio Input -->
             <div class="radio-container">
               <label for="value-50">50 Questions</label>
-              <input type="radio" id="value-50" name="questions" value="50" />
+              <input type="radio" name="questions" value="50" id="value-50" />
               <span class="best-score">
                 <span>Best Score</span>
-                <span class="best-score-value">0.0s</span>
+                <span class="best-score-value"></span>
               </span>
             </div>
-
-            <!-- 99 Questions radio input -->
+            <!-- 99 Questions Radio Input -->
             <div class="radio-container">
               <label for="value-99">99 Questions</label>
-              <input type="radio" id="value-99" name="questions" value="99" />
+              <input type="radio" name="questions" value="99" id="value-99" />
               <span class="best-score">
                 <span>Best Score</span>
-                <span class="best-score-value">0.0s</span>
+                <span class="best-score-value"></span>
               </span>
             </div>
           </div>
-
           <!-- Start Button -->
           <div class="selection-footer">
             <button class="start" type="submit">Start Round</button>
@@ -69,7 +64,7 @@
 
       <!-- Countdown Page -->
       <div class="card" id="countdown-page" hidden>
-        <h1 class="countdown"></h1>
+        <h1 class="countdown">3</h1>
       </div>
 
       <!-- Game Page -->
