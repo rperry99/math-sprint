@@ -5,6 +5,10 @@ This is project 15 / 20.
 
 ## Live Project
 
-You can view a live version of the project [here]()
+You can view a live version of the project [here](https://rperry99.github.io/math-sprint/)
 
 ## Thoughts
+
+This project brought me back to elementary school. I rememebr those tests where we had I think like, 2 minutes to solve as many math problems as we could. Basically, this project is the same thing, but it just checks how fast you can do the math problems instead of ending at a certain time.
+
+It was pretty neat for this project how each page works. Usually, I think of pages as their own .html files, but this one just has multiple different divs that get turned on or off depeneding on what needs to be shown.
