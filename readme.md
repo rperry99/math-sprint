@@ -7,6 +7,8 @@ This is project 15 / 20.
 
 You can view a live version of the project [here](https://rperry99.github.io/math-sprint/)
 
+You can view the full list of project from this course [here](https://github.com/rperry99/ztm-20-javascript-projects).
+
 ## Thoughts
 
 This project brought me back to elementary school. I rememebr those tests where we had I think like, 2 minutes to solve as many math problems as we could. Basically, this project is the same thing, but it just checks how fast you can do the math problems instead of ending at a certain time.
